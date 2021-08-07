@@ -1,0 +1,17 @@
+Parent to Child Components in Different Routes.
+
+
+where path = '/' =>
+     PaletteList -> NavBar & MiniPalette
+
+
+where path = '/palette/:id' =>
+     Palette -> NavBar & ColorBox & Footer
+
+
+where path = '/palette/:paletteId/:colorId' =>
+     SingleColorPalette -> NavBar & ColorBox & Footer
+
+where path = '/palette/new' =>
+     NewPaletteForm -> (PaletteFormNav ~> PaletteMetaForm) & ColorPickerForm &
+                       (DraggableColorList ~> DraggableColorBox)
