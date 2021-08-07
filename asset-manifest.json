@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/flatui-clone/static/css/main.d4cffd24.chunk.css",
+    "main.js": "/flatui-clone/static/js/main.322de69e.chunk.js",
+    "main.js.map": "/flatui-clone/static/js/main.322de69e.chunk.js.map",
+    "runtime-main.js": "/flatui-clone/static/js/runtime-main.c4c82e12.js",
+    "runtime-main.js.map": "/flatui-clone/static/js/runtime-main.c4c82e12.js.map",
+    "static/css/2.b1c92442.chunk.css": "/flatui-clone/static/css/2.b1c92442.chunk.css",
+    "static/js/2.b8327311.chunk.js": "/flatui-clone/static/js/2.b8327311.chunk.js",
+    "static/js/2.b8327311.chunk.js.map": "/flatui-clone/static/js/2.b8327311.chunk.js.map",
+    "static/js/3.71a29b2e.chunk.js": "/flatui-clone/static/js/3.71a29b2e.chunk.js",
+    "static/js/3.71a29b2e.chunk.js.map": "/flatui-clone/static/js/3.71a29b2e.chunk.js.map",
+    "index.html": "/flatui-clone/index.html",
+    "static/css/2.b1c92442.chunk.css.map": "/flatui-clone/static/css/2.b1c92442.chunk.css.map",
+    "static/css/main.d4cffd24.chunk.css.map": "/flatui-clone/static/css/main.d4cffd24.chunk.css.map",
+    "static/js/2.b8327311.chunk.js.LICENSE.txt": "/flatui-clone/static/js/2.b8327311.chunk.js.LICENSE.txt",
+    "static/media/bg1.5c7a9b00.svg": "/flatui-clone/static/media/bg1.5c7a9b00.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4c82e12.js",
+    "static/css/2.b1c92442.chunk.css",
+    "static/js/2.b8327311.chunk.js",
+    "static/css/main.d4cffd24.chunk.css",
+    "static/js/main.322de69e.chunk.js"
+  ]
+}
